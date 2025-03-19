@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(226, 244, 247);
+}
+/* SELECTOR DE ETIQUETA */
+header{
+  background-color: rgb(158, 234, 244);
+  /* Ancho */
+  width: 100%;
+  /* Alto */
+  height: 200px;
+  /* color del texto */
+  color: rgb(0, 223, 255);
+  font-size: 20px;
+}
+
+li{
+  color: rgb(0, 223, 255);
+}
+
+/* SELECTOR DE CLASE */
+.contenedor{
+  /* bordes */
+  border: solid black;
+}
